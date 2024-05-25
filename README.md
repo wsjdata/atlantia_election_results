@@ -10,7 +10,7 @@ You are tasked with analyzing the election results data from Atlantia and writin
 
 ## Data
 
-The dataset contains various fields related to the election process and the results. The field definitions below are your notes after speaking to an expert in the data.
+The dataset contains various fields related to the election process and the results. The field definitions below are your notes after speaking to an expert about Atlantian elections.
 
 ### Field Definitions
 
