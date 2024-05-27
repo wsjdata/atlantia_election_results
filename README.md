@@ -46,6 +46,6 @@ The dataset contains various fields related to the election process and the resu
 ## Instructions
 
 01. **Load the Data**: Start by loading the `vote_results.csv` file into your preferred data analysis software or programming environment.
-02. **Explore the Data**: Familiarize yourself with the dataset, understand the structure, and identify any key patterns or anomalies.
-03. **Analyze the Data**: Focus on deriving key insights and notable trends from the data. Consider the distribution of votes, turnout rates, and any discrepancies.
-04. **Write the Analysis**: Craft a concise analysis (200-400 words) summarizing your findings. Highlight significant outcomes, interesting observations, and any relevant insights about the election results.
+02. **Explore the Data**: Familiarize yourself with the dataset, understand the structure and identify any key patterns or anomalies.
+03. **Analyze the Data**: Focus on deriving key insights and notable trends from the data. Consider the distribution of votes, turnout rates and any discrepancies.
+04. **Write the Analysis**: Craft a concise analysis (200-400 words) summarizing your findings. Highlight significant outcomes, interesting observations and any relevant insights about the election results.
