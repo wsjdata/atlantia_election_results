@@ -1,15 +1,15 @@
-# Election Results Analysis Project
+# Atlantia Election Results Analysis
 
 ## Overview
 
-The data in this project represents election results for a fictional place called Atlantia. This dataset is provided in a file named `vote_results.csv` . The task for this project is to write an analysis of the election outcome, with a length of 200-400 words.
+The data in this repo represents election results for a fictional place called Atlantia. This dataset is provided in a file named `vote_results.csv` . The task for this project is to write an analysis of the election outcome, with a length of 200-400 words.
 
 ## Task
 
 Elections have just been held for the Assembly of Delegates, the lower house in the fictional country of Atlantia. You’ve got an editors meeting in three hours, and you need to be ready to tell them what the story is. Please write a 200-400 word memo detailing your findings after analyzing the country’s precinct-level voting data.
 
 Your memo should include:
-01. Big picture findings. What are the top-level results that readers will care about, and why? Present these in clear, easy-to-understand language that could appear directly in newspaper copy.
+01. Big picture findings. What are the top-level results that readers will care about, and why? Present these in clear, easy-to-understand language that could appear directly in the newspaper.
 02. Notable results. Are there places where the vote suggests something interesting? If so, where? Should we send reporters in to learn more? Why?
 03. Suggestions for visuals. What are some ways we can visualize these results to help tell the story?
 04. Next steps. Based on what you’ve found, what are the next steps for reporting out and writing the story of these results?
