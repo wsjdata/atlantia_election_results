@@ -6,11 +6,29 @@ The data in this project represents election results for a fictional place calle
 
 ## Task
 
-You are tasked with analyzing the election results data from Atlantia and writing an analysis (200-400 words) of the election outcome. The analysis should cover key insights, notable trends and any interesting observations derived from the data.
+Elections have just been held for the Assembly of Delegates, the lower house in the fictional country of Atlantia. You’ve got an editors meeting in three hours, and you need to be ready to tell them what the story is. Please write a 200-400 word memo detailing your findings after analyzing the country’s precinct-level voting data.
+
+Your memo should include:
+01. Big picture findings. What are the top-level results that readers will care about, and why? Present these in clear, easy-to-understand language that could appear directly in newspaper copy.
+02. Notable results. Are there places where the vote suggests something interesting? If so, where? Should we send reporters in to learn more? Why?
+03. Suggestions for visuals. What are some ways we can visualize these results to help tell the story?
+04. Next steps. Based on what you’ve found, what are the next steps for reporting out and writing the story of these results?
 
 ## Data
 
-The dataset contains various fields related to the election process and the results. The field definitions below are your notes after speaking to an expert about Atlantian elections.
+The dataset contains various fields related to the election process and the results. The party descriptions and field definitions below are your notes after speaking to an expert about Atlantian elections.
+
+### Parties
+
+| **Fictionalized Party**       | **Description**                                                                                      |
+|-------------------------------|------------------------------------------------------------------------------------------------------|
+| Fairland                      | A progressive party focused on social justice, equality and workers' rights.                        |
+| National Union                | A right-wing nationalist party advocating for strong national defense, traditional values and law and order. |
+| Defenders of Atlantia         | A patriotic party emphasizing national pride, military strength and cultural heritage preservation. |
+| People's Voice                | A left-wing party supporting communist principles, state control of resources and social welfare programs. |
+| Greenleaf                     | An environmentalist party dedicated to sustainable development, green energy and conservation efforts. |
+| Unity of Atlantia             | The ruling party promoting central authority, political stability and economic development.        |
+| Just Path                     | A center-right party focused on market reforms, individual freedoms and anti-corruption measures.   |
 
 ### Field Definitions
 
@@ -42,10 +60,3 @@ The dataset contains various fields related to the election process and the resu
 26. **party_5_greenleaf**: Number of votes received by the fictional political party "Greenleaf."
 27. **party_6_unity_of_atlantia**: Number of votes received by the fictional political party "Unity of Atlantia."
 28. **party_7_just_path**: Number of votes received by the fictional political party "Just Path."
-
-## Instructions
-
-01. **Load the Data**: Start by loading the `vote_results.csv` file into your preferred data analysis software or programming environment.
-02. **Explore the Data**: Familiarize yourself with the dataset, understand the structure and identify any key patterns or anomalies.
-03. **Analyze the Data**: Focus on deriving key insights and notable trends from the data. Consider the distribution of votes, turnout rates and any discrepancies.
-04. **Write the Analysis**: Craft a concise analysis (200-400 words) summarizing your findings. Highlight significant outcomes, interesting observations and any relevant insights about the election results.
