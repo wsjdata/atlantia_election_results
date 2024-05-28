@@ -32,15 +32,15 @@ The dataset contains various fields related to the election process and the resu
 
 ### Field Definitions
 
-01. **province**: The larger administrative region or area where the election is taking place (like a state or province).
-02. **district**: A smaller administrative division within the province that oversees the election in that area (like a county or district).
-03. **precinct**: The smallest administrative unit where voters go to cast their ballots (like a polling station or local precinct).
-04. **number_of_voters_included_in_the_list**: Total number of registered voters in the precinct who are eligible to vote.
-05. **number_of_ballots_received_by_the_precinct_commission**: Total number of ballots that the precinct received to distribute to voters.
-06. **number_of_ballots_issued_to_early_voters**: Number of ballots given to voters who voted before the official election day.
-07. **number_of_ballots_issued_at_the_polling_station**: Number of ballots given to voters at the polling station on election day.
-08. **number_of_ballots_issued_outside_the_polling_station**: Number of ballots given to voters outside the polling station, usually for those who cannot come to the polling station.
-09. **number_of_cancelled_ballots**: Number of ballots that were cancelled or invalidated and not counted.
+01.  **province**: The larger administrative region or area where the election is taking place (like a state in the US).
+02.   **district**: A smaller administrative division within the province that oversees the election in that area (like a county).
+03.    **precinct**: The smallest administrative unit where voters go to cast their ballots.
+04.    **number_of_voters_included_in_the_list**: Total number of registered voters in the precinct who are eligible to vote.
+05.    **number_of_ballots_received_by_the_precinct_commission**: Total number of ballots that the precinct received to distribute to voters.
+06.    **number_of_ballots_issued_to_early_voters**: Number of ballots given to voters who voted before the official election day.
+07.    **number_of_ballots_issued_at_the_polling_station**: Number of ballots given to voters at the polling station on election day.
+08.    **number_of_ballots_issued_outside_the_polling_station**: Number of ballots given to voters outside the polling station, usually for those who cannot come to the polling station.
+09.    **number_of_cancelled_ballots**: Number of ballots that were cancelled or invalidated and not counted.
 10. **number_of_ballots_in_portable_ballot_boxes**: Number of ballots collected in portable boxes, typically used for mobile voting services.
 11. **number_of_ballots_in_stationary_ballot_boxes**: Number of ballots collected in the stationary boxes at the polling station.
 12. **number_of_invalid_ballots**: Number of ballots that were marked incorrectly or were otherwise invalid and not counted.
