@@ -6,7 +6,7 @@ The data in this repo represents election results for a fictional place called A
 
 ## Task
 
-Elections have just been held for the Assembly of Delegates, the lower house in the fictional country of Atlantia. You’ve got an editors meeting in three hours, and you need to be ready to tell them what the story is. Please write a 200-400 word memo detailing your findings after analyzing the country’s precinct-level voting data.
+Elections have just been held for the Assembly of Delegates, the lower house in the fictional country of Atlantia. You’ve got an editors' meeting in three hours, and you need to be ready to tell them what the story is. Please write a 200-400 word memo detailing your findings after analyzing the country’s precinct-level voting data.
 
 Your memo should include:
 01. Big picture findings. What are the top-level results that readers will care about, and why? Present these in clear, easy-to-understand language that could appear directly in the newspaper.
